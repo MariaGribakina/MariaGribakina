@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MariaGribakina
-- 👀 I'm currently learning testing, MySQL, Git
-- 🌱 I'm interested in testing, data analysis, Pyton, data science
-- 💞️ I speak English
+- 👀 I'm currently learning manual software testing
+- 🌱 I'm interested in testing, SQL, Python
+- 💞️ I speak English (B1)
 - 📫 How to reach me: mariagribakina.it@gmail.com
 
 <!---
