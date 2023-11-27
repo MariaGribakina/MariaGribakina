@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MariaGribakina
 - 👀 I'm currently learning manual software testing
-- 🌱 I'm interested in testing, SQL, Python
-- 💞️ I speak English (B1)
+- 🌱 I'm interested in software testing, SQL, Python
+- 💞️ I speak English (B1), French (A1)
 - 📫 How to reach me: mariagribakina.it@gmail.com
 
 <!---
